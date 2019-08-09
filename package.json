@@ -29,7 +29,7 @@
     "debug": "3.1.0",
     "lodash": "4.17.4",
     "semver": "5.4.1",
-    "sequelize": "4.28.0"
+    "sequelize": "^5.13.0"
   },
   "devDependencies": {
     "blanket": "1.2.3",

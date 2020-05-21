@@ -1,3 +1,7 @@
+Forked by DCP version, added features including support for PostgreSQL 'jsonb' column format.
+
+In order to update this package, configure your local npm registry to point to the Azure DevOps dcp-npm-registry feed and run `npm publish`. Remember to boost your package.json version number.
+
 [![Coverage Status](https://coveralls.io/repos/holidayextras/jsonapi-store-relationaldb/badge.svg?branch=master&service=github)](https://coveralls.io/github/holidayextras/jsonapi-store-relationaldb?branch=master)
 [![Build Status](https://travis-ci.org/holidayextras/jsonapi-store-relationaldb.svg?branch=master)](https://travis-ci.org/holidayextras/jsonapi-store-relationaldb)
 [![npm version](https://badge.fury.io/js/jsonapi-store-relationaldb.svg)](http://badge.fury.io/js/jsonapi-store-relationaldb)
